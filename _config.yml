@@ -21,7 +21,7 @@
 #  algorithms and data structures (dictionaries, arrays, linked lists).
 #  Student learn these concepts through studying the Python programming
 #  language.  
-baseurl: "/a7209" # the subpath of your site, e.g. /blog
+baseurl: "/PSOC-A8220, II Year II Semester EEE" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 number: A7209
@@ -57,16 +57,16 @@ navigation:
     url: '#commitments'
 
 instructors:
-  - id: srv
-    name: Dr. S. Ravivarman
-    email: ravivarman@vardhaman.org
-    web: http://wwww.sravivarman.com
-    phone: +91 99942 77431
+  - id: NK
+    name: Dr. N. Karuppiah
+    email: natarajankaruppiah@vardhaman.org
+    web: http://wwww.natarajankaruppiah.com
+    phone: +91 97518 33346
 
 offerings:
   - name: LECTURE
-    loc: 5103
-    instructor: srv 
+    loc: 3211
+    instructor: NK
 
 # Build settings
 markdown: kramdown
