@@ -24,9 +24,9 @@
 baseurl: "/PSOC-A8220, II Year II Semester EEE" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-number: A7209
-title: Basic Electrical and Electronics Engineering
-semester: II-I (2022-2023)
+number: A8220
+title: Power System Operation and Control
+semester: II-II (2023-2024)
 
 navigation:
   - title: Overview
