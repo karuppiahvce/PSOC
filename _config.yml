@@ -21,7 +21,7 @@
 #  algorithms and data structures (dictionaries, arrays, linked lists).
 #  Student learn these concepts through studying the Python programming
 #  language.  
-baseurl: "/PSOC-A8220, II Year II Semester EEE" # the subpath of your site, e.g. /blog
+baseurl: "/PSOC" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 number: A8220
